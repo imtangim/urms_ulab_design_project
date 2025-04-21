@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:urms_ulab/core/colors.dart';
 import 'package:urms_ulab/features/auth/login.dart';
 
 void main() {
@@ -13,8 +14,17 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+        scaffoldBackgroundColor: Colors.white,
+        appBarTheme: AppBarTheme(
+          backgroundColor: Colors.white,
+          foregroundColor: Colors.black,
+        ),
+        bottomNavigationBarTheme: BottomNavigationBarThemeData(
+          backgroundColor: Appcolor.buttonBackgroundColor,
+        ),
       ),
+      debugShowCheckedModeBanner: false,
       home: LoginScreen(),
     );
   }
