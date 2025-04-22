@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227398555889",
+    "project_id": "ulab-6e537",
+    "storage_bucket": "ulab-6e537.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227398555889:android:00cde35f1e4965fe4ab150",
+        "android_client_info": {
+          "package_name": "com.example.urms_ulab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227398555889-ke3egmu579gl3epvs5qkubtg6f02o74r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUTYR6uCnPLRl_r6kKJqENkupDsJ9z5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227398555889-ke3egmu579gl3epvs5qkubtg6f02o74r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

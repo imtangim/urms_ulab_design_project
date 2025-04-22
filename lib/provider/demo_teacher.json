@@ -1,0 +1,1570 @@
+[
+    {
+      "teacherId": "t001",
+      "teachername": "Dr. Samuel Allen",
+      "email": "samuel.allen@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/28.jpg",
+      "phone": "+1-580-555-8811",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t002",
+      "teachername": "Ms. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+      "phone": "+1-430-555-6319",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Harvard University"
+        },
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t003",
+      "teachername": "Mr. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/26.jpg",
+      "phone": "+1-486-555-9466",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "University of Michigan"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t004",
+      "teachername": "Prof. Kevin Moore",
+      "email": "kevin.moore@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "+1-710-555-8904",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t005",
+      "teachername": "Dr. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/79.jpg",
+      "phone": "+1-328-555-9628",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t006",
+      "teachername": "Ms. Rachel Adams",
+      "email": "rachel.adams@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/93.jpg",
+      "phone": "+1-600-555-9307",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t007",
+      "teachername": "Ms. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/32.jpg",
+      "phone": "+1-929-555-8181",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "University of Chicago"
+        },
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t008",
+      "teachername": "Dr. Ella Wright",
+      "email": "ella.wright@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/85.jpg",
+      "phone": "+1-861-555-1538",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Columbia University"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t009",
+      "teachername": "Prof. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+      "phone": "+1-885-555-9458",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Stanford University"
+        },
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Sports Coach"
+    },
+    {
+      "teacherId": "t010",
+      "teachername": "Mr. Kevin Moore",
+      "email": "kevin.moore@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/89.jpg",
+      "phone": "+1-488-555-1446",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "MIT"
+        },
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t011",
+      "teachername": "Ms. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/78.jpg",
+      "phone": "+1-962-555-4933",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t012",
+      "teachername": "Ms. Avery Campbell",
+      "email": "avery.campbell@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/50.jpg",
+      "phone": "+1-214-555-9090",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t013",
+      "teachername": "Mr. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/48.jpg",
+      "phone": "+1-450-555-9708",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Stanford University"
+        },
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t014",
+      "teachername": "Mr. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "phone": "+1-451-555-8548",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t015",
+      "teachername": "Prof. James Hill",
+      "email": "james.hill@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/8.jpg",
+      "phone": "+1-366-555-4596",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t016",
+      "teachername": "Mr. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+      "phone": "+1-386-555-7781",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t017",
+      "teachername": "Mr. Emily Carter",
+      "email": "emily.carter@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/64.jpg",
+      "phone": "+1-324-555-1652",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t018",
+      "teachername": "Dr. John Miller",
+      "email": "john.miller@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/8.jpg",
+      "phone": "+1-790-555-7508",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t019",
+      "teachername": "Prof. Rachel Adams",
+      "email": "rachel.adams@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "phone": "+1-654-555-8735",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Princeton University"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t020",
+      "teachername": "Dr. Kevin Moore",
+      "email": "kevin.moore@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/74.jpg",
+      "phone": "+1-817-555-5656",
+      "education": [
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t021",
+      "teachername": "Prof. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "+1-275-555-7646",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Yale University"
+        },
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t022",
+      "teachername": "Dr. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/72.jpg",
+      "phone": "+1-653-555-4810",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t023",
+      "teachername": "Ms. Emily Carter",
+      "email": "emily.carter@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+      "phone": "+1-560-555-3952",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t024",
+      "teachername": "Mr. Laura Green",
+      "email": "laura.green@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "phone": "+1-570-555-9358",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Chicago"
+        },
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t025",
+      "teachername": "Mr. Samuel Allen",
+      "email": "samuel.allen@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/70.jpg",
+      "phone": "+1-262-555-7867",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Stanford University"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t026",
+      "teachername": "Prof. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/59.jpg",
+      "phone": "+1-930-555-5915",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t027",
+      "teachername": "Prof. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/77.jpg",
+      "phone": "+1-882-555-9598",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t028",
+      "teachername": "Dr. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/78.jpg",
+      "phone": "+1-754-555-5349",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Princeton University"
+        },
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t029",
+      "teachername": "Mr. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/88.jpg",
+      "phone": "+1-412-555-9114",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t030",
+      "teachername": "Mr. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/86.jpg",
+      "phone": "+1-356-555-2919",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "University of Michigan"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t031",
+      "teachername": "Mr. John Miller",
+      "email": "john.miller@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+      "phone": "+1-797-555-8122",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t032",
+      "teachername": "Mr. Laura Green",
+      "email": "laura.green@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/55.jpg",
+      "phone": "+1-209-555-4282",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t033",
+      "teachername": "Mr. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/31.jpg",
+      "phone": "+1-472-555-2259",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t034",
+      "teachername": "Dr. Emily Carter",
+      "email": "emily.carter@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "phone": "+1-667-555-2256",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Oxford University"
+        },
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t035",
+      "teachername": "Prof. Ella Wright",
+      "email": "ella.wright@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+      "phone": "+1-805-555-4836",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t036",
+      "teachername": "Mr. Samuel Allen",
+      "email": "samuel.allen@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/82.jpg",
+      "phone": "+1-935-555-6300",
+      "education": [
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Sports Coach"
+    },
+    {
+      "teacherId": "t037",
+      "teachername": "Ms. Olivia Scott",
+      "email": "olivia.scott@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/6.jpg",
+      "phone": "+1-275-555-9539",
+      "education": [
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t038",
+      "teachername": "Prof. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/40.jpg",
+      "phone": "+1-269-555-6599",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t039",
+      "teachername": "Mr. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/80.jpg",
+      "phone": "+1-330-555-4743",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t040",
+      "teachername": "Ms. David Thompson",
+      "email": "david.thompson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "+1-684-555-4087",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t041",
+      "teachername": "Mr. John Miller",
+      "email": "john.miller@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
+      "phone": "+1-423-555-3045",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "University of Chicago"
+        },
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t042",
+      "teachername": "Ms. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/51.jpg",
+      "phone": "+1-377-555-2180",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t043",
+      "teachername": "Ms. Laura Green",
+      "email": "laura.green@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/24.jpg",
+      "phone": "+1-647-555-3013",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Harvard University"
+        },
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t044",
+      "teachername": "Dr. Avery Campbell",
+      "email": "avery.campbell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/87.jpg",
+      "phone": "+1-592-555-7714",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "MIT"
+        },
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t045",
+      "teachername": "Ms. Daniel Lewis",
+      "email": "daniel.lewis@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/68.jpg",
+      "phone": "+1-730-555-9210",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t046",
+      "teachername": "Ms. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/94.jpg",
+      "phone": "+1-292-555-7546",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t047",
+      "teachername": "Dr. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/76.jpg",
+      "phone": "+1-497-555-2862",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t048",
+      "teachername": "Dr. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/97.jpg",
+      "phone": "+1-681-555-6681",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t049",
+      "teachername": "Ms. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/14.jpg",
+      "phone": "+1-432-555-4652",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Michigan"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t050",
+      "teachername": "Dr. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/64.jpg",
+      "phone": "+1-980-555-4338",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t051",
+      "teachername": "Ms. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/95.jpg",
+      "phone": "+1-861-555-8113",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "University of Chicago"
+        },
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t052",
+      "teachername": "Prof. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/30.jpg",
+      "phone": "+1-889-555-7724",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t053",
+      "teachername": "Ms. Laura Green",
+      "email": "laura.green@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/29.jpg",
+      "phone": "+1-202-555-7826",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Yale University"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t054",
+      "teachername": "Ms. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/48.jpg",
+      "phone": "+1-347-555-8930",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t055",
+      "teachername": "Mr. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+      "phone": "+1-360-555-5561",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Princeton University"
+        },
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t056",
+      "teachername": "Dr. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/64.jpg",
+      "phone": "+1-806-555-9492",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t057",
+      "teachername": "Mr. Laura Green",
+      "email": "laura.green@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/90.jpg",
+      "phone": "+1-576-555-3904",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t058",
+      "teachername": "Dr. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/49.jpg",
+      "phone": "+1-955-555-5688",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t059",
+      "teachername": "Ms. Emily Carter",
+      "email": "emily.carter@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/43.jpg",
+      "phone": "+1-485-555-4440",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "MIT"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t060",
+      "teachername": "Dr. Daniel Lewis",
+      "email": "daniel.lewis@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+      "phone": "+1-941-555-8680",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Michigan"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t061",
+      "teachername": "Mr. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/77.jpg",
+      "phone": "+1-878-555-4077",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "University of Michigan"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t062",
+      "teachername": "Ms. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/71.jpg",
+      "phone": "+1-553-555-2675",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Caltech"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t063",
+      "teachername": "Prof. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/58.jpg",
+      "phone": "+1-781-555-6956",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t064",
+      "teachername": "Mr. David Thompson",
+      "email": "david.thompson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/81.jpg",
+      "phone": "+1-288-555-9317",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t065",
+      "teachername": "Prof. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/34.jpg",
+      "phone": "+1-967-555-2568",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "MIT"
+        },
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t066",
+      "teachername": "Ms. John Miller",
+      "email": "john.miller@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/59.jpg",
+      "phone": "+1-270-555-6253",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Columbia University"
+        },
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t067",
+      "teachername": "Prof. Brian Evans",
+      "email": "brian.evans@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/30.jpg",
+      "phone": "+1-581-555-6674",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t068",
+      "teachername": "Mr. Ethan King",
+      "email": "ethan.king@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/21.jpg",
+      "phone": "+1-291-555-6620",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "MIT"
+        },
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Princeton University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t069",
+      "teachername": "Ms. Charlotte Baker",
+      "email": "charlotte.baker@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/61.jpg",
+      "phone": "+1-611-555-1785",
+      "education": [
+        {
+          "degree": "M.Ed. in History",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Sports Coach"
+    },
+    {
+      "teacherId": "t070",
+      "teachername": "Prof. Brian Evans",
+      "email": "brian.evans@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+      "phone": "+1-887-555-3882",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Caltech"
+        },
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t071",
+      "teachername": "Mr. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "phone": "+1-429-555-6006",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Columbia University"
+        },
+        {
+          "degree": "M.Ed. in History",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t072",
+      "teachername": "Ms. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/54.jpg",
+      "phone": "+1-521-555-1976",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t073",
+      "teachername": "Prof. Daniel Lewis",
+      "email": "daniel.lewis@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/41.jpg",
+      "phone": "+1-211-555-8824",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Princeton University"
+        },
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t074",
+      "teachername": "Mr. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+      "phone": "+1-410-555-7199",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Stanford University"
+        },
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t075",
+      "teachername": "Ms. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/32.jpg",
+      "phone": "+1-834-555-3882",
+      "education": [
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "Yale University"
+        },
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "University of Michigan"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t076",
+      "teachername": "Prof. Samuel Allen",
+      "email": "samuel.allen@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/87.jpg",
+      "phone": "+1-429-555-7828",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t077",
+      "teachername": "Prof. Benjamin Ward",
+      "email": "benjamin.ward@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "phone": "+1-263-555-8776",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Columbia University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t078",
+      "teachername": "Prof. James Hill",
+      "email": "james.hill@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "+1-334-555-7027",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Columbia University"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t079",
+      "teachername": "Ms. Kevin Moore",
+      "email": "kevin.moore@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/92.jpg",
+      "phone": "+1-255-555-5577",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Senior Lecturer"
+    },
+    {
+      "teacherId": "t080",
+      "teachername": "Dr. Daniel Lewis",
+      "email": "daniel.lewis@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/13.jpg",
+      "phone": "+1-308-555-4712",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "MIT"
+        },
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t081",
+      "teachername": "Mr. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/63.jpg",
+      "phone": "+1-815-555-9289",
+      "education": [
+        {
+          "degree": "M.A. in Psychology",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t082",
+      "teachername": "Prof. Olivia Scott",
+      "email": "olivia.scott@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/7.jpg",
+      "phone": "+1-520-555-8763",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t083",
+      "teachername": "Dr. Grace Hall",
+      "email": "grace.hall@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/63.jpg",
+      "phone": "+1-252-555-2627",
+      "education": [
+        {
+          "degree": "M.Ed. in Physical Education",
+          "institution": "MIT"
+        },
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t084",
+      "teachername": "Ms. Emily Carter",
+      "email": "emily.carter@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/97.jpg",
+      "phone": "+1-418-555-8908",
+      "education": [
+        {
+          "degree": "M.Sc. in Physics",
+          "institution": "MIT"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t085",
+      "teachername": "Ms. Sophia Young",
+      "email": "sophia.young@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/87.jpg",
+      "phone": "+1-420-555-9274",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t086",
+      "teachername": "Mr. Kevin Moore",
+      "email": "kevin.moore@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/80.jpg",
+      "phone": "+1-950-555-1206",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Yale University"
+        },
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "Physics Teacher"
+    },
+    {
+      "teacherId": "t087",
+      "teachername": "Ms. Avery Campbell",
+      "email": "avery.campbell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/72.jpg",
+      "phone": "+1-592-555-5857",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Yale University"
+        },
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t088",
+      "teachername": "Prof. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+      "phone": "+1-475-555-1975",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "University of Chicago"
+        },
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t089",
+      "teachername": "Ms. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/8.jpg",
+      "phone": "+1-312-555-4366",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t090",
+      "teachername": "Prof. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/28.jpg",
+      "phone": "+1-754-555-1173",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Ohio State University"
+        }
+      ],
+      "designation": "Biology Teacher"
+    },
+    {
+      "teacherId": "t091",
+      "teachername": "Prof. Ella Wright",
+      "email": "ella.wright@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/43.jpg",
+      "phone": "+1-887-555-5221",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t092",
+      "teachername": "Prof. Ella Wright",
+      "email": "ella.wright@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/56.jpg",
+      "phone": "+1-665-555-2448",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "MIT"
+        },
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t093",
+      "teachername": "Ms. Logan Mitchell",
+      "email": "logan.mitchell@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/80.jpg",
+      "phone": "+1-686-555-1159",
+      "education": [
+        {
+          "degree": "B.Sc. in Biology",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t094",
+      "teachername": "Mr. James Hill",
+      "email": "james.hill@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+      "phone": "+1-596-555-8162",
+      "education": [
+        {
+          "degree": "B.Ed. in English",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Chemistry Lecturer"
+    },
+    {
+      "teacherId": "t095",
+      "teachername": "Mr. Olivia Scott",
+      "email": "olivia.scott@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/57.jpg",
+      "phone": "+1-924-555-4003",
+      "education": [
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Oxford University"
+        },
+        {
+          "degree": "Ph.D. in Chemistry",
+          "institution": "Stanford University"
+        }
+      ],
+      "designation": "Psychology Lecturer"
+    },
+    {
+      "teacherId": "t096",
+      "teachername": "Dr. John Miller",
+      "email": "john.miller@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+      "phone": "+1-977-555-9281",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Yale University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    },
+    {
+      "teacherId": "t097",
+      "teachername": "Dr. Mia Nelson",
+      "email": "mia.nelson@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/20.jpg",
+      "phone": "+1-554-555-4052",
+      "education": [
+        {
+          "degree": "Ph.D. in Political Science",
+          "institution": "Harvard University"
+        }
+      ],
+      "designation": "History Teacher"
+    },
+    {
+      "teacherId": "t098",
+      "teachername": "Dr. Olivia Scott",
+      "email": "olivia.scott@example.com",
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "+1-839-555-2940",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Professor"
+    },
+    {
+      "teacherId": "t099",
+      "teachername": "Dr. Avery Campbell",
+      "email": "avery.campbell@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/42.jpg",
+      "phone": "+1-697-555-1628",
+      "education": [
+        {
+          "degree": "Ph.D. in Computer Science",
+          "institution": "University of Chicago"
+        }
+      ],
+      "designation": "Political Science Professor"
+    },
+    {
+      "teacherId": "t100",
+      "teachername": "Ms. Daniel Lewis",
+      "email": "daniel.lewis@example.com",
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+      "phone": "+1-761-555-3034",
+      "education": [
+        {
+          "degree": "M.Sc. in Software Engineering",
+          "institution": "Oxford University"
+        }
+      ],
+      "designation": "Assistant Teacher"
+    }
+  ]

@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "ulab-6e537",
+                    "appId": "1:227398555889:android:00cde35f1e4965fe4ab150",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ulab-6e537",
+                    "configurations": {
+                        "android": "1:227398555889:android:00cde35f1e4965fe4ab150"
+                    }
+                }
+            }
+        }
+    }
+}
